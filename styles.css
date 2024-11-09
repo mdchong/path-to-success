@@ -115,12 +115,21 @@ textarea:not([rows]) {
 /* ===================== */
 
 /* MEDIA QUERY (MEDIUM) */
+@media screen and (min-width: 620px) {
+
+}
 
 /* ===================== */
 
 /* MEDIA QUERY (LARGE) */
+@media screen and (min-width: 950px) {
+
+}
 
 /* ===================== */
 
 /* MEDIA QUERY (EXTRA LARGE) */
+@media screen and (min-width: 1280px) {
+    
+}
 
